@@ -1,1 +1,1 @@
-My first readme
+Redo of the Alx Git project
